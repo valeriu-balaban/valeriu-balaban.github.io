@@ -67,7 +67,7 @@ a,
 }
 
 .testimonial:before {
-	background: rgba(5,32,51,0.75);
+	background: rgb(5,32,51);
 }
 
 .quote {
@@ -75,7 +75,7 @@ a,
 }
 
 .emedu-list-1__date {
-	background:  rgba(5,32,51,0.75);
+	background:  rgb(5,32,51);
 }
 
 .contact__address,

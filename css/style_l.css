@@ -3459,6 +3459,7 @@ body {
 .page__portfolio,
 .page__blog,
 .page__skills,
+.page__projects,
 .page__contact {
   padding: 2em 2.5em;
 }
