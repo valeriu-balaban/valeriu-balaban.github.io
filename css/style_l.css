@@ -3423,6 +3423,7 @@ body {
 }
 
 .portrait__description__mail {
+  padding: 50px 0px 50px 0px;
   font-size: 0.9em;
 }
 
@@ -3457,12 +3458,13 @@ body {
 .page__about,
 .page__portfolio,
 .page__blog,
+.page__skills,
 .page__contact {
-  padding: 4em 2.5em;
+  padding: 2em 2.5em;
 }
 
 *[class^="page__"] {
-  padding: 4em 2.5em;
+  padding: 2em 2.5em;
 }
 
 .page-heading {
